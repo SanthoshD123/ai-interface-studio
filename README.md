@@ -1,5 +1,3 @@
----
-
 # AI Interface Studio
 
 A sophisticated, modern web-based AI chat interface that developers can easily integrate into their projects. This elegant, feature-rich interface provides a complete frontend and backend solution for AI-powered applications.
